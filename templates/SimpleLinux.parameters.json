@@ -14,13 +14,13 @@
 
     "adminPassword": {
 
-      "value": "P@ssw0rd.2"
+      "value": "P@ssw0rd.2!!"
 
     },
 
     "dnsLabelPrefix": {
 
-      "value": "GEN-UNIQUE"
+      "value": "epicarmdemo"
 
     }
 
